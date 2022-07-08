@@ -1,6 +1,6 @@
 /******************************************************************************
 
-To print the no of repeated elements in a column in a matrix
+To print the no of repeated elements in a matrix
 
 *******************************************************************************/
 #include <stdio.h>
